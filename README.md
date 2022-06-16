@@ -1,1 +1,1 @@
-Git is amazing 
+HTML, CSS and JavaScript are tools for Frontend-Developers.
