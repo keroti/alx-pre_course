@@ -1,1 +1,1 @@
-My name is Keroti from Nairobi.
+Github is fun
